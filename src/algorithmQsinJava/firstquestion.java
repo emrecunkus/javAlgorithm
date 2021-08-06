@@ -20,7 +20,7 @@ public class firstquestion {
 			print(a,b);
 		}
 		else {
-			System.out.println("all numbers are printed without using a loop");
+			System.out.println("all numbers have been printed without using a loop");
 		}
 		
 	}
